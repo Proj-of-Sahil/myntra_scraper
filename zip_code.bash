@@ -1,0 +1,1 @@
+zip -r ../myntra.zip . -x "venv/*"
